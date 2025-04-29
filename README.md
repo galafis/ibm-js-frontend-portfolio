@@ -1,6 +1,6 @@
 # Repositório: Portfólio Front-End Básico (IBM Full-Stack JS)
 
-Este repositório demonstra as habilidades fundamentais de desenvolvimento front-end adquiridas no programa **IBM Full-Stack JavaScript Developer Professional Certificate**.
+Este repositório,feito por mim, demonstra as habilidades fundamentais de desenvolvimento front-end adquiridas no programa **IBM Full-Stack JavaScript Developer Professional Certificate**.
 
 ## Objetivo
 
