@@ -25,4 +25,4 @@ Este projeto reflete os conceitos ensinados nos módulos iniciais do certificado
 *   `LICENSE`: Licença MIT.
 *   `.gitignore`: Arquivo gitignore padrão para Node (gerado automaticamente).
 
-**Observação:** O código neste repositório é intencionalmente simples, focando em demonstrar a estrutura e as tecnologias fundamentais de forma concisa, conforme a solicitação de economia de recursos.
+**Observação:** O código neste repositório é intencionalmente simples, focando em demonstrar a estrutura e as tecnologias fundamentais de forma concisa.
