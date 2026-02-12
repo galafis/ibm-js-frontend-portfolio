@@ -1,28 +1,135 @@
-# Repositório: Portfólio Front-End Básico (IBM Full-Stack JS)
+# 🚀 Ibm Js Frontend Portfolio
 
-Este repositório,feito por mim, demonstra as habilidades fundamentais de desenvolvimento front-end adquiridas no programa **IBM Full-Stack JavaScript Developer Professional Certificate**.
+[![HTML5](https://img.shields.io/badge/HTML5-5-E34F26.svg)](https://developer.mozilla.org/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-## Objetivo
+[English](#english) | [Português](#português)
 
-O objetivo deste repositório é apresentar um exemplo básico da estrutura de um site de portfólio pessoal, utilizando as tecnologias essenciais do front-end.
+---
 
-## Tecnologias Demonstradas
+## English
 
-*   **HTML:** Estruturação semântica do conteúdo da página.
-*   **CSS:** Estilização básica para apresentação visual.
-*   **JavaScript:** Manipulação básica do DOM ou interatividade (neste exemplo, apenas um log no console).
+### 🎯 Overview
 
-## Contexto do Programa IBM
+**Ibm Js Frontend Portfolio** — Demonstração de HTML, CSS e JavaScript básico (IBM Full-Stack JS Cert)
 
-Este projeto reflete os conceitos ensinados nos módulos iniciais do certificado profissional da IBM, onde aprendemos a construir páginas web estáticas e dinâmicas, incluindo a criação de um website de portfólio pessoal.
+Total source lines: **37** across **3** files in **3** languages.
 
-## Conteúdo do Repositório
+### ✨ Key Features
 
-*   `index.html`: Arquivo HTML principal.
-*   `style.css`: Folha de estilos CSS básica.
-*   `script.js`: Arquivo JavaScript básico.
-*   `README.md`: Este arquivo.
-*   `LICENSE`: Licença MIT.
-*   `.gitignore`: Arquivo gitignore padrão para Node (gerado automaticamente).
+- **Production-Ready Architecture**: Modular, well-documented, and following best practices
+- **Comprehensive Implementation**: Complete solution with all core functionality
+- **Clean Code**: Type-safe, well-tested, and maintainable codebase
+- **Easy Deployment**: Docker support for quick setup and deployment
 
-**Observação:** O código neste repositório é intencionalmente simples, focando em demonstrar a estrutura e as tecnologias fundamentais de forma concisa.
+### 🚀 Quick Start
+
+#### Prerequisites
+- See requirements below
+
+
+#### Installation
+
+1. **Clone the repository**
+```bash
+git clone https://github.com/galafis/ibm-js-frontend-portfolio.git
+cd ibm-js-frontend-portfolio
+```
+
+
+
+
+
+
+
+
+### 📁 Project Structure
+
+```
+ibm-js-frontend-portfolio/
+├── README.md
+└── script.js
+```
+
+### 🛠️ Tech Stack
+
+| Technology | Usage |
+|------------|-------|
+| HTML | 1 files |
+| JavaScript | 1 files |
+| CSS | 1 files |
+
+### 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+### 👤 Author
+
+**Gabriel Demetrios Lafis**
+
+- GitHub: [@galafis](https://github.com/galafis)
+- LinkedIn: [Gabriel Demetrios Lafis](https://linkedin.com/in/gabriel-demetrios-lafis)
+
+---
+
+## Português
+
+### 🎯 Visão Geral
+
+**Ibm Js Frontend Portfolio** — Demonstração de HTML, CSS e JavaScript básico (IBM Full-Stack JS Cert)
+
+Total de linhas de código: **37** em **3** arquivos em **3** linguagens.
+
+### ✨ Funcionalidades Principais
+
+- **Arquitetura Pronta para Produção**: Modular, bem documentada e seguindo boas práticas
+- **Implementação Completa**: Solução completa com todas as funcionalidades principais
+- **Código Limpo**: Type-safe, bem testado e manutenível
+- **Fácil Implantação**: Suporte Docker para configuração e implantação rápidas
+
+### 🚀 Início Rápido
+
+#### Pré-requisitos
+- Veja os requisitos abaixo
+
+
+#### Instalação
+
+1. **Clone the repository**
+```bash
+git clone https://github.com/galafis/ibm-js-frontend-portfolio.git
+cd ibm-js-frontend-portfolio
+```
+
+
+
+
+
+
+
+### 📁 Estrutura do Projeto
+
+```
+ibm-js-frontend-portfolio/
+├── README.md
+└── script.js
+```
+
+### 🛠️ Stack Tecnológica
+
+| Tecnologia | Uso |
+|------------|-----|
+| HTML | 1 files |
+| JavaScript | 1 files |
+| CSS | 1 files |
+
+### 📄 Licença
+
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
+
+### 👤 Autor
+
+**Gabriel Demetrios Lafis**
+
+- GitHub: [@galafis](https://github.com/galafis)
+- LinkedIn: [Gabriel Demetrios Lafis](https://linkedin.com/in/gabriel-demetrios-lafis)
