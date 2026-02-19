@@ -1,0 +1,9 @@
+{
+  "name": "ibm-js-frontend-portfolio",
+  "version": "1.0.0",
+  "description": "> Demonstração de HTML, CSS e JavaScript básico (IBM Full-Stack JS Cert)",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "license": "MIT"
+}
